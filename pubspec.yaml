@@ -1,0 +1,51 @@
+name: personal_smart_spend
+description: A smart offline expense tracking app   
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 🔔 Local Notifications (Budgets / Alerts)
+  flutter_local_notifications: ^17.1.2
+
+  # 💾 Local Key-Value Storage (Username, settings, flags)
+  shared_preferences: ^2.2.2
+
+  # 🗄️ SQLite (Android)
+  sqflite: ^2.3.3
+
+  # 🗄️ SQLite (Windows / Desktop)
+  sqflite_common_ffi: ^2.3.3
+
+  # 📂 Path helper (required by sqflite)
+  path: ^1.9.0
+
+  # 📊 Charts (Pie / Bar analytics)
+  fl_chart: ^0.66.2
+
+  # 🌍 Internationalization (currency formatting)
+  intl: ^0.19.0
+
+  # 📄 PDF generation (Reports / Export)
+  pdf: ^3.10.8
+
+  # 📁 File system access (Save PDFs)
+  path_provider: ^2.1.2
+
+  # 📢 Google AdMob (Rewarded Ads / Monetization)
+  google_mobile_ads: ^5.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
