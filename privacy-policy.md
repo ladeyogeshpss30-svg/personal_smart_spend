@@ -8,11 +8,13 @@ Personal Smart Spend (“we”, “our”, “us”) respects your privacy and i
 
 Personal Smart Spend is a personal finance management application designed to help users track income, expenses, budgets, goals, and financial activity. The app is built with a strong privacy-first approach. Your financial data is stored locally on your device and is not transmitted to our servers.
 
+The app may display advertisements and may offer optional premium features.
+
 2. Information We Collect
 
 Personal Smart Spend does not collect, store, or process your personal financial records (such as income, expenses, categories, notes, budgets, goals, or savings data) on any external servers.
 
-However, the app may collect limited non-personal technical information through trusted third-party services to help improve app stability, performance, and user experience. This may include:
+However, the app may collect limited non-personal technical and usage information through trusted third-party services to support advertising, improve app stability, and enhance user experience. This may include:
 
 Crash reports
 
@@ -24,19 +26,25 @@ App version
 
 Basic app usage information (such as screen views and feature usage)
 
+Advertising identifiers or similar technologies used to show and measure ads
+
 This information does not include your financial data.
 
 3. How We Use Information
 
-The technical information collected is used only to:
+The information collected is used only to:
 
 Detect, analyze, and fix application crashes
 
 Monitor app performance and stability
 
-Understand general feature usage to improve the app experience
+Understand general feature usage
 
-We do not use this information to identify individual users, and we do not access your personal financial records.
+Display and measure advertisements
+
+Improve app features and user experience
+
+We do not access your personal financial records.
 
 4. Financial Data Handling
 
@@ -74,7 +82,7 @@ Permissions are used strictly to support app functionality.
 
 7. Third-Party Services
 
-Personal Smart Spend uses trusted third-party services such as:
+Personal Smart Spend uses trusted third-party services, which may include:
 
 Google Firebase Analytics
 
@@ -82,11 +90,17 @@ Firebase Crashlytics
 
 Google Play Services
 
+Advertising partners (such as Google AdMob or similar ad networks)
+
 These services may collect limited technical and usage information in accordance with their own privacy policies.
 
-We do not sell, rent, or trade your personal or financial information.
+We do not sell your personal financial information.
 
-8. Data Security
+8. Premium Features
+
+Personal Smart Spend may offer optional premium features through in-app purchases or subscriptions. Payments are processed securely by the Google Play billing system. We do not collect or store your payment card details.
+
+9. Data Security
 
 We take reasonable technical and organizational measures to protect your data, including:
 
@@ -98,15 +112,15 @@ Optional encrypted backup support
 
 While we strive to protect your information, no method of electronic storage is completely secure.
 
-9. Children’s Privacy
+10. Children’s Privacy
 
 Personal Smart Spend is not intended for children under the age of 13. We do not knowingly collect personal information from children.
 
-10. Changes to This Privacy Policy
+11. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Any changes will be reflected within the app and on our official Privacy Policy page.
 
-11. Contact Us
+12. Contact Us
 
 If you have any questions or concerns about this Privacy Policy or data practices, contact us at:
 
