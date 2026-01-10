@@ -124,4 +124,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions or concerns about this Privacy Policy or data practices, contact us at:
 
-📧 personalsmartspend@gmail.com
+📧 help.personalsmartspend@gmail.com
